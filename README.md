@@ -2,6 +2,8 @@
 Takes your decypted eboot.elf file and patches the domain name to be The Archstones.
 This program was created to help fix issues for users who are unable to connect to the server for a magnitude of reasons.
 
+Still need to clean up the code some but its all good and working now :D
+
 Required:
 RPCS3/Decrpyted Eboot.elf
 
